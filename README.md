@@ -103,7 +103,8 @@
 - Vue가 클라이언트 사이드에서 중추가 되어 늘비상담 서비스의 다른 서버들과 통신을 합니다.
 - OpenVidu는 Kurento를 Base로 한 프레임워크이며, Vue와 Web RTC API 통신을 구현합니다.
 - Spring Boot와 Rest API 통신을 하며 SPA(Single Page Application)를 구현합니다.
-- 채팅 시스템을 구현하기 위한 WebSocket 프로토콜, Sock JS를 사용하고 있고, 소셜 로그인을 위해 구글, 네이버, 카카오 외부 서버와 통신합니다.
+- 채팅 시스템을 구현하기 위한 WebSocket 프로토콜, Sock JS를 사용하고 있습니다.
+- 소셜 로그인을 위해 구글, 네이버, 카카오 외부 서버와 통신합니다.
 - Amazon S3는 프로필 이미지를 저장 및 불러오게 하기 위해 사용했습니다.
 
 
