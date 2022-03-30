@@ -1831,7 +1831,8 @@ public class OAuth2AuthenticationSuccessHandler extends SimpleUrlAuthenticationS
                 // 보안상의 문제로 전체를 허용하는 것보다 직접 하나씩 지정해 주어야 한다고 한다.
     }
 ```
-(여기 사이에 나눌 말이 들어가면 좋겠음)
+
+<br/>
 
 ```javascript
 const connect = async function () {
